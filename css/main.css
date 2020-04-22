@@ -149,25 +149,26 @@ li{
 .landing-text{
     /* background: url("/images/fay.JPG"); */
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
     text-align: center;
     z-index: 1;
-    color: #f31ab2
+    color: #bd210c
+
 }
 .landing-text h1{
     font-family: 'Merriweather', serif;
     font-size: 5rem;
     /* font-family: 'Merienda', cursive; */
-    color: #f31ab2
+    color: #bd210c
     
 }
 .landing-text h6{
     font-size: 5rem;
     font-weight: 300;
-    color: #f31ab2
+    color: #bd210c
 }
 /*end header*/
 
